@@ -1,0 +1,10 @@
+Script for motion detection
+
+It takes the first frame as baseline and compare stable state (baseline frame)
+with current tn frame
+If motion detected the program will warn you with voice alert
+
+Use case:
+```
+python3 motion_detection.py
+```
